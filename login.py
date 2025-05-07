@@ -1,3 +1,6 @@
 print("Login")
 name = input("ingrese su nombre. ")
-print(name)
+if name == 'samuel':
+    print("usuario valido")
+else:
+    print(f"usuario {name} no registrado")
