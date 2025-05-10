@@ -6,4 +6,4 @@ else:
     print(f"usuario {name} no registrado")
 
 
-print("gracias por usar el sistema")
+print("el sistema esta en version prueba")
