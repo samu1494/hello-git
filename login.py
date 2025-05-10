@@ -4,3 +4,6 @@ if name == 'samuel':
     print("usuario valido")
 else:
     print(f"usuario {name} no registrado")
+
+
+print("gracias por usar el sistema")
